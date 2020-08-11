@@ -1,2 +1,4 @@
-# React Base app
-This is base app with react, redux, react-api-midleware, react-router and styled-components
+# Comman to run
+  1. yarn (or) npm i
+  2. yarn start (or) npm start
+  
